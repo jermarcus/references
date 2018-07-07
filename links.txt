@@ -1,0 +1,1 @@
+Blog post about writing great git comments: https://chris.beams.io/posts/git-commit/

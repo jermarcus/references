@@ -1,1 +1,4 @@
-Blog post about writing great git comments: https://chris.beams.io/posts/git-commit/
+Git Blog post about writing great git comments: https://chris.beams.io/posts/git-commit/
+Git Video covering basics: https://www.youtube.com/watch?v=HVsySz-h9r4
+Git cheat sheet: https://www.atlassian.com/git/tutorials
+Git documentation: https://git-scm.com/docs 
